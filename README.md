@@ -12,7 +12,7 @@
 
 All lecture content sans the assignment(s) and important announcements
 will be hosted on the lectures Github Page which you can find it
-[here](https://github.com/dTmC0945/L-MCI-MSc-Higher-Mathematics-I).
+[here](https://github.com/dTmC0945/L-MCI-BSc-Python-for-Engineering-and-Economics).
 
 # A Gentle Introduction
 
@@ -106,7 +106,7 @@ relevant code used in the lecture as it is not feasible to fit all the
 content of the code to the slides and it is easier to share this way.
 
 [Visit the Code Supplement
-Website](https://dtmc0945.github.io/L-MCI-BSc-Digital-Image-Processing/)
+Website](https://dtmc0945.github.io/L-MCI-BSc-Python-for-Engineering-and-Economics/)
 
 ## Reading List
 
